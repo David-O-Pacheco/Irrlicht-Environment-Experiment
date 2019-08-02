@@ -1,0 +1,3 @@
+﻿  IrrlichtTest.cpp
+c:\users\david\desktop\irrlicht - copy\irrlicht\irrlicht\irrlichttest.cpp(140): warning C4305: 'argument': truncation from 'double' to 'irr::f32'
+  Irrlicht.vcxproj -> C:\Users\David\Desktop\Irrlicht - Copy\Irrlicht\Debug\Irrlicht.exe

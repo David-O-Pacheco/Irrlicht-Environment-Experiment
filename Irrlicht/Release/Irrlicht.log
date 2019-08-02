@@ -1,0 +1,9 @@
+﻿  IrrlichtTest.cpp
+c:\users\david\desktop\irrlicht\irrlicht\irrlicht\irrlichttest.cpp(220): warning C4305: 'argument': truncation from 'double' to 'irr::f32'
+c:\users\david\desktop\irrlicht\irrlicht\irrlicht\irrlichttest.cpp(252): warning C4305: 'argument': truncation from 'double' to 'irr::f32'
+  Generating code
+  0 of 69 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Irrlicht.vcxproj -> C:\Users\David\Desktop\Irrlicht\Irrlicht\Release\Irrlicht.exe
